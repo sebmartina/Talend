@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="SMAR_MySql_Password" prompt="SMAR_MySql_Password?" promptNeeded="false" type="id_Password" value="1QY6ZyNqCD4BAhKeqSkILQ=="/>
+  <contextParameter comment="" name="SMAR_MySql_Database" prompt="SMAR_MySql_Database?" promptNeeded="false" type="id_String" value="sample2007"/>
+  <contextParameter comment="" name="SMAR_MySql_Login" prompt="SMAR_MySql_Login?" promptNeeded="false" type="id_String" value="root"/>
+  <contextParameter comment="" name="SMAR_MySql_Server" prompt="SMAR_MySql_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+  <contextParameter comment="" name="SMAR_MySql_AdditionalParams" prompt="SMAR_MySql_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+  <contextParameter comment="" name="SMAR_MySql_Port" prompt="SMAR_MySql_Port?" promptNeeded="false" type="id_String" value="3306"/>
+</talendfile:ContextType>
